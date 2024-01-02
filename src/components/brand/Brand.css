@@ -1,0 +1,10 @@
+.brand {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 65px;
+}
+
+.brand img {
+  cursor: pointer;
+}
