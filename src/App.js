@@ -22,7 +22,7 @@ function App() {
       <Possibility />
       <Cta />
       <Blog />
-      {/* <Footer />  */}
+      <Footer />
     </div>
   );
 }
